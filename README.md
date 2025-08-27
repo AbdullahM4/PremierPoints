@@ -2,7 +2,7 @@ PremierPoints is a full-featured project that collects and processes match stati
 players. It provides dynamic data visualization 
 and interaction through three main components: Backend, Frontend, and Data Scraping.
 
-<img alt="PremierPoints Dashboard" src="Dashboard/1.JPG" width="600"/>
+<img alt="PremierPoints Dashboard" src="Dashboard/1.JPG"/>
 
 
 
